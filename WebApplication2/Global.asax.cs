@@ -13,7 +13,8 @@ namespace WebApplication2
     {
         void Application_Start(object sender, EventArgs e)
         {
-            AppDomain
+            what the fuck 
+
             // Code that runs on application startup
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
