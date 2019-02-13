@@ -13,7 +13,7 @@ namespace WebApplication2
     {
         void Application_Start(object sender, EventArgs e)
         {
-            what the fuck 
+            what the duck
 
             // Code that runs on application startup
             RouteConfig.RegisterRoutes(RouteTable.Routes);
